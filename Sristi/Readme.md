@@ -1,4 +1,4 @@
-My solution to the Assignment: \
+My solution to the Assignment: 
 
 The link to my colab notebook for the Assignment:
 
