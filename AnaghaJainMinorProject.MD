@@ -3,6 +3,7 @@ The questions are also written in the collab notebook for reference and crossche
 The link to my collab notebook is as follows : 
 https://colab.research.google.com/drive/1dY3pTObnXbwLigHwK24C0PWMOT9VBHAC?usp=sharing
 
+   
 The questions are done in the following order: (as per given in the pdf)
 1. Determine the maximum no. of followers possessed by a user belonging to the group of users with no profile picture.
 2. Dead accounts are characterized by a lack of substantial activity on the platform, primarily concerning the accounts with no profile picture, empty bio and 0 posts.
